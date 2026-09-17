@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Anjelika-Mnk/Anjelika-Mnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About me:
 
 - 🔭 I’m currently working on project activity.
@@ -13,4 +10,4 @@ About me:
 - 📫 How to reach me: https://t.me/Anjelika_Manukyan
 - 😄 Pronouns: she/her
 
--->
+
