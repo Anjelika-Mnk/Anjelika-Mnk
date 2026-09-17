@@ -9,5 +9,7 @@ About me:
 
 - 📫 How to reach me: https://t.me/Anjelika_Manukyan
 - 😄 Pronouns: she/her
-
+- Languages and Tools: SQL, Python, Matplotlib, pandas, ClickHouse. 
+     
+ 
 
